@@ -1,0 +1,15 @@
+/Users/haramqhn/Desktop/videogame/bin/Debug/net8.0/videogame
+/Users/haramqhn/Desktop/videogame/bin/Debug/net8.0/videogame.deps.json
+/Users/haramqhn/Desktop/videogame/bin/Debug/net8.0/videogame.runtimeconfig.json
+/Users/haramqhn/Desktop/videogame/bin/Debug/net8.0/videogame.dll
+/Users/haramqhn/Desktop/videogame/bin/Debug/net8.0/videogame.pdb
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.AssemblyInfoInputs.cache
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.AssemblyInfo.cs
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.csproj.CoreCompileInputs.cache
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.sourcelink.json
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.dll
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/refint/videogame.dll
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.pdb
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/videogame.genruntimeconfig.cache
+/Users/haramqhn/Desktop/videogame/obj/Debug/net8.0/ref/videogame.dll
